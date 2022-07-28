@@ -140,3 +140,5 @@ export default function LoginScreen() {
     </Layout>
   );
 }
+
+// LoginScreen.auth = true;
